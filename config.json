@@ -1,1 +1,1 @@
-{"encoding": "utf-8", "content": "{\n  \"defaultStyle\": \"siberian\",\n  \"styles\": {\n    \"siberian\": {\n      \"enabled\": true,\n      \"path\": \"styles/siberian.md\",\n      \"priority\": 1\n    }\n  },\n  \"preferences\": {\n    \"emotionalDepth\": true,\n    \"culturalNuance\": true,\n    \"directCommunication\": true\n  }\n}"}
+base64 encoded content
